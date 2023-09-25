@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Korean"
+title: "Korean"
 description: 왜 안됨?
-date:   2023-09-25 15:35:00 +0900
+date:   2023-09-24 15:35:00 +0900
 categories: Test
 ---
-
 # 큰 한국말
 ## 좀 작아진 한국말
 ### 더 작아진 한국말
