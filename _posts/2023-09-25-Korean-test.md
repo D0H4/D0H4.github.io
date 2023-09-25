@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "한국어 테스트"
-description: An example post which shows code rendering.
+title:  "Korean"
+description: 왜 안됨?
 date:   2023-09-25 15:35:00 +0900
 categories: Test
 ---
@@ -17,3 +17,5 @@ categories: Test
 *이탤릭*
 
 **볼드**
+
+가나다라마바사
