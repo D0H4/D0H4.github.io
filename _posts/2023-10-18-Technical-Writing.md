@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "개발자 글쓰기 요약본"
-description: 
+description: "이거 왜 함?"
 date:   2023-10-18 14:00:00 +0900
 categories: 
 ---
