@@ -1,4 +1,4 @@
-title: Grow Doha
+title: DohaTech
 author: Doha
 email: LeeDoha@proton.me
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -24,7 +24,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: regexJeong
+    twitter: 
     github:  D0H4
     rss: rss
 
